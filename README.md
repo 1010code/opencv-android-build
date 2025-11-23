@@ -23,3 +23,11 @@ chmod +x opencv_android_build.sh
 ```
 
 此腳本將會自動處理編譯過程，產生包含 arm64-v8a, armeabi-v7a, x86, 和 x86_64 架構的 Android SDK。編譯完成後，可以在 `opencv-android-build/OpenCV-android-sdk` 目錄下找到所需的 `libopencv_world.so` 檔案以及相關的函式庫。
+
+
+## 其他
+另外這邊有提供，想再Google Colab上直接開發 OpenCV C++的範例。
+
+- 如何Build&Install OpenCV: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/opencv-android-build/blob/main/colab/Build%26Install_OpenCV.ipynb)
+
+- 使用 OpenCV_4_12_0: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/opencv-android-build/blob/main/colab/OpenCV_4_12_0.ipynb)
