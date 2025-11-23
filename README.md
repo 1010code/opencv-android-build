@@ -26,7 +26,7 @@ chmod +x opencv_android_build.sh
 
 
 ## 其他
-另外這邊有提供，想再Google Colab上直接開發 OpenCV C++的範例。
+另外這邊有提供，想在Google Colab上直接開發 OpenCV C++的範例。
 
 - 如何Build&Install OpenCV: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/opencv-android-build/blob/main/colab/Build%26Install_OpenCV.ipynb)
 
